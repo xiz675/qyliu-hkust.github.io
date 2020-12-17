@@ -15,11 +15,11 @@ Education
 
 Research Interest
 ======
-* Learning for DB: learned index, learned query optimizer, data-driven DBMS, etc.
-* Spatial-Temporal Database: indexing, query processing, applications, etc.
+* **Learning for DB: learned index**, learned query optimizer, data-driven DBMS, etc.
+* **Spatial-Temporal Database**: indexing, query processing, applications, etc.
   
 Skills
 ======
-* Language: Mandarin (native), English (fluent)
-* Development: Java, C, C#, Python
-* Others: Team leader in FF14 :yum:	
+* **Language**: Mandarin (native), English (fluent)
+* **Development**: Java, C, C#, Python
+* **Others**: Team leader in FF14 :yum:	
