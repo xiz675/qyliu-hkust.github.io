@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Computer Science**, Yingcai Honored School, University of Electronic Science and Technology of China (2013 -- 2017)
-* **Ph.D Candidate in Computer Science**, Hong Kong University of Science and Technology, present (2017 -- Now)
+* **B.S. in Computer Science**, University of Electronic Science and Technology of China (2013 -- 2017)
+* **Ph.D Candidate in Computer Science**, Hong Kong University of Science and Technology (2017 -- Now)
 
 Research Interest
 ======
