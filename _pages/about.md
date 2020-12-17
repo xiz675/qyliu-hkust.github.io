@@ -15,7 +15,7 @@ Education
 
 Research Interest
 ======
-* **Learning for DB: learned index**, learned query optimizer, data-driven DBMS, etc.
+* **Learning for DB**: learned index, learned query optimizer, data-driven DBMS, etc.
 * **Spatial-Temporal Database**: indexing, query processing, applications, etc.
   
 Skills
