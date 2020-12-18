@@ -16,8 +16,8 @@ Email: qliuau [AT] cse.ust.hk
 
 Education
 ======
-* **B.S. in Computer Science**, University of Electronic Science and Technology of China (2013 -- 2017)
-* **Ph.D Candidate in Computer Science**, Hong Kong University of Science and Technology (2017 -- Now)
+* **Ph.D Candidate in Computer Science**, Hong Kong University of Science and Technology
+* **B.S. in Computer Science**, University of Electronic Science and Technology of China
 
 Research Interest
 ======
@@ -29,3 +29,6 @@ Skills
 * **Language**: Mandarin (native), English (fluent)
 * **Development**: Java, C, C#, Python
 * **Others**: Team leader in FF14 :)
+
+Publications
+======
