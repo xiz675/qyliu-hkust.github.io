@@ -22,4 +22,4 @@ Skills
 ======
 * **Language**: Mandarin (native), English (fluent)
 * **Development**: Java, C, C#, Python
-* **Others**: Team leader in FF14 :yum:	
+* **Others**: Team leader in FF14 :)
