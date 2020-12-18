@@ -1,12 +1,18 @@
 ---
 permalink: /
-title: "Liu Qiyu's Home"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Liu Qiyu (刘棋毓)
+=====
+Ph.D. Candidate at HKUST
+
+Email: qliuau [AT] cse.ust.hk
 
 Education
 ======
