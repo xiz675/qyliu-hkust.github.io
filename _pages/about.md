@@ -26,6 +26,8 @@ Research Interest
 
 Publications
 ======
+1. **Qiyu Liu**, Yanyan Shen, and Lei Chen, LHist: Towards Learning Multi-dimensionalHistogram for Massive Spatial Data, ICDE 2021 (to appear)
+1. **Qiyu Liu**, Libin Zheng, Xiang Lian, and Lei Chen, Efficiently Discovering Regions of Interest withUser-Defined Score Function, DASFAA 2021 (to appear)
 1. **Qiyu Liu**, Libin Zheng, Yanyan Shen, and Lei Chen, Finish Them on the Fly: An Incentive Mechanism for Real-Time Spatial Crowdsourcing, DASFAA 2020 (**Best Paper Runnerup**)
 1. **Qiyu Liu**, Yanyan Shen, and Lei Chen, Stable learned bloom filters for data streams, VLDB 2020
 1. **Qiyu Liu**, Libin Zheng, and Lei Chen, RIDE: A System for Generalized Region of Interest Discovery and Exploration, ICDE 2020
