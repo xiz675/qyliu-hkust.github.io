@@ -13,10 +13,9 @@ Liu Qiyu (刘棋毓)
 Ph.D. Candidate at HKUST\
 Email: qliuau [AT] cse.ust.hk
 
-Education
+Biography
 ======
-* **Ph.D Candidate in Computer Science**, Hong Kong University of Science and Technology
-* **B.S. in Computer Science**, University of Electronic Science and Technology of China
+I am currently a Ph.D. candidate with the Department of Computer Science and Engineering (CSE), HKUST, supervised by [Prof. Lei CHEN](http://www.cs.ust.hk/~leichen/). Before that, I received my B.S. degree in computer science from UESTC. 
 
 Research Interest
 ======
@@ -26,10 +25,10 @@ Research Interest
 
 Publications
 ======
-1. **Qiyu Liu**, Yanyan Shen, and Lei Chen, LHist: Towards Learning Multi-dimensionalHistogram for Massive Spatial Data, ICDE 2021 (to appear)
-1. **Qiyu Liu**, Libin Zheng, Xiang Lian, and Lei Chen, Efficiently Discovering Regions of Interest withUser-Defined Score Function, DASFAA 2021 (to appear)
+1. **Qiyu Liu**, Yanyan Shen, and Lei Chen, LHist: Towards Learning Multi-dimensional Histogram for Massive Spatial Data, ICDE 2021
+1. **Qiyu Liu**, Libin Zheng, Xiang Lian, and Lei Chen, Efficiently Discovering Regions of Interest with User-Defined Score Function, DASFAA 2021
 1. **Qiyu Liu**, Libin Zheng, Yanyan Shen, and Lei Chen, Finish Them on the Fly: An Incentive Mechanism for Real-Time Spatial Crowdsourcing, DASFAA 2020 (**Best Paper Runnerup**)
-1. **Qiyu Liu**, Yanyan Shen, and Lei Chen, Stable learned bloom filters for data streams, VLDB 2020
+1. **Qiyu Liu**, Yanyan Shen, and Lei Chen, Stable Learned Bloom Filters for Data Streams, VLDB 2020
 1. **Qiyu Liu**, Libin Zheng, and Lei Chen, RIDE: A System for Generalized Region of Interest Discovery and Exploration, ICDE 2020
 1. **Qiyu Liu**, Xiang Lian, and Lei Chen, Probabilistic Maximum Range-Sum Queries on Spatial Database, SIGSPATIAL 2019 (**Best Paper Candidate**)
 1. **Qiyu Liu**, Yuxiang Zeng, Lei Chen, and Xiuwen Zheng, Social-Aware Optimal Electric Vehicle Charger Deployment on Road Network, SIGSPATIAL 2019
