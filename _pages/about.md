@@ -29,8 +29,8 @@ Preprints & Publications
 Selected Projects
 ======
 * **AWSOME Polystore System**
-** **Objective**: Build a tightly-coupled polystore system that effciently processes analytical queries over heterogeneous data stores like Neo4j (graph), Postgres (relation) and Solr (documents).
-** **Current Progress**:
+  - **Objective**: Build a tightly-coupled polystore system that effciently processes analytical queries over heterogeneous data stores like Neo4j (graph), Postgres (relation) and Solr (documents).
+  - **Current Progress**:
 
 
 Awards
