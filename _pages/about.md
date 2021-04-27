@@ -8,34 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-Liu Qiyu (刘棋毓)
+Xiuwen Zheng (郑修文)
 =====
-Ph.D. Candidate at HKUST\
-Email: qliuau [AT] cse.ust.hk
+Ph.D. Student at UC San Diego (Oct. 2020 -- present)\
+Email: xiz675 [AT] eng.ucsd.edu
 
 Biography
 ======
-I am currently a Ph.D. candidate with the Department of Computer Science and Engineering (CSE), HKUST, supervised by [Prof. Lei CHEN](http://www.cs.ust.hk/~leichen/). Before that, I received my B.S. degree in computer science from UESTC. 
-
-Research Interest
-======
-* **Learning for DB**: learned index, learned query optimizer, data-driven DBMS, etc.
-* **Spatial-Temporal Database**: indexing, query processing, applications, etc.
+I am currently a Ph.D. student in Computer Science, supervised by Dr. Amarnath Gupta and Prof. Arun Kumar. Before that, I obtained my B.S. degree in Communication Engineering from UESTC. My research interest lies includes data-driven DBMS, polystore database, machine learning systems, and AI for DB. 
   
-
-Publications
+Preprints & Publications
 ======
-1. **Qiyu Liu**, Yanyan Shen, and Lei Chen, LHist: Towards Learning Multi-dimensional Histogram for Massive Spatial Data, ICDE 2021
-1. **Qiyu Liu**, Libin Zheng, Xiang Lian, and Lei Chen, Efficiently Discovering Regions of Interest with User-Defined Score Function, DASFAA 2021
-1. **Qiyu Liu**, Libin Zheng, Yanyan Shen, and Lei Chen, Finish Them on the Fly: An Incentive Mechanism for Real-Time Spatial Crowdsourcing, DASFAA 2020 (**Best Paper Runnerup**)
-1. **Qiyu Liu**, Yanyan Shen, and Lei Chen, Stable Learned Bloom Filters for Data Streams, VLDB 2020
-1. **Qiyu Liu**, Libin Zheng, and Lei Chen, RIDE: A System for Generalized Region of Interest Discovery and Exploration, ICDE 2020
-1. **Qiyu Liu**, Xiang Lian, and Lei Chen, Probabilistic Maximum Range-Sum Queries on Spatial Database, SIGSPATIAL 2019 (**Best Paper Candidate**)
-1. **Qiyu Liu**, Yuxiang Zeng, Lei Chen, and Xiuwen Zheng, Social-Aware Optimal Electric Vehicle Charger Deployment on Road Network, SIGSPATIAL 2019
+1. News Meets Microblog: A Retriever-Generator Hashtag Annotation Framework. **Xiuwen Zheng**, Dheeraj Mekala, Amarnath Gupta, and Jingbo Shang. (under review)
+1. An Algebraic Approach for High-level Text Analytics. **Xiuwen Zheng**, and Amarnath Gupta. SSDBM 2020.
+1. Social Network of Extreme Tweeters: A Case Study. **Xiuwen Zheng**, and Amarnath Gupta. ASONAM 2019.
+1. Scalable Community Detection over Geo-Social Network. **Xiuwen Zheng**, Qiyu Liu, and Amarnath Gupta. LENS@SIGSPATIAL 2019 (Best Presentation Award)
+1. Social-Aware Optimal Electric Vehicle Charger Deployment on Road Network. Qiyu Liu, Yuxiang Zeng, Lei Chen, and **Xiuwen Zheng**. SIGSPATIAL 2019.
 
+
+Awards
+======
+* NSF Travel Grants for SIGSPATIAL 2019
+* 1st Class Scholarship for Academic Excellence (5%), UESTC
+* Meritorious Winner (top 10%) at 18th annual Interdisciplinary Contest in Modeling (ICM)
+* National Scholarship (for 0.2% Chinese undergraduates)
 
 Skills
 ======
-* **Language**: Mandarin (native), English (fluent)
-* **Development**: Java, C, C#, Python
-* **Others**: Team leader in FF14 :)
+* 
