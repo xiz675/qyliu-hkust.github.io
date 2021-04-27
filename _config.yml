@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiyu Liu"
+title                    : "Xiuwen Zheng"
 title_separator          : "-"
-name                     : &name "Qiyu Liu"
-description              : &description "Ph.D. in Computer Science"
-url                      : https://qyliu-hkust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xiuwen Zheng"
+description              : &description "Ph.D. student in Computer Science"
+url                      : https://xiz675.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "qyliu-hkust.github.io"
+repository               : "xiz675.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qiyu Liu"
+  name             : "Xiuwen Zheng"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Computer Science at HKUST"
-  location         : "Hong Kong SAR"
+  bio              : "Ph.D. studeent in Computer Science at UCSD"
+  location         : "La Jolla, CA, US"
   employer         :
   pubmed           : 
   googlescholar    : 
