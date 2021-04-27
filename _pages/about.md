@@ -26,13 +26,23 @@ Preprints & Publications
 1. Social-Aware Optimal Electric Vehicle Charger Deployment on Road Network. Qiyu Liu, Yuxiang Zeng, Lei Chen, and **Xiuwen Zheng**. SIGSPATIAL 2019.
 
 
+Selected Projects
+======
+* **AWSOME Polystore System**
+** **Objective**: Build a tightly-coupled polystore system that effciently processes analytical queries over heterogeneous data stores like Neo4j (graph), Postgres (relation) and Solr (documents).
+** **Current Progress**:
+
+
 Awards
 ======
 * NSF Travel Grants for SIGSPATIAL 2019
 * 1st Class Scholarship for Academic Excellence (5%), UESTC
 * Meritorious Winner (top 10%) at 18th annual Interdisciplinary Contest in Modeling (ICM)
-* National Scholarship (for 0.2% Chinese undergraduates)
+* National Scholarship (for 0.2% undergraduate students)
 
 Skills
 ======
-* 
+* **Programming**: Java, Python, SQL, Cypher, Matlab, R, C
+* **Big Data Tools**: Spark, Hive, D3, Neo4j
+* **Parser Generator**: JavaCC, ANTLR
+* **Others**: Maven, Git, LaTex
