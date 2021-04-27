@@ -15,7 +15,7 @@ Email: xiz675 [AT] eng.ucsd.edu
 
 Biography
 ======
-I am currently a Ph.D. student in Computer Science, supervised by Dr. Amarnath Gupta and Prof. Arun Kumar. Before that, I obtained my B.S. degree in Communication Engineering from UESTC. My research interest lies includes data-driven DBMS, polystore database, machine learning systems, and AI for DB. My lateset resume can be found [here](https://github.com/xiz675/xiz675.github.io/blob/master/files/resume_Xiuwen.pdf).
+I am currently a Ph.D. student in Computer Science, supervised by Dr. Amarnath Gupta and Prof. Arun Kumar. Before that, I obtained my B.S. degree in Communication Engineering from UESTC. My research interest lies includes data-driven DBMS, polystore database, machine learning systems, and AI for DB. My lateset resume can be found [here](https://github.com/xiz675/xiz675.github.io/raw/master/files/resume_Xiuwen.pdf).
   
 Preprints & Publications
 ======
