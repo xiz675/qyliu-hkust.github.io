@@ -29,8 +29,9 @@ Preprints & Publications
 Selected Projects
 ======
 * **AWSOME Polystore System**
-  - **Objective**: Build a tightly-coupled polystore system that effciently processes analytical queries over heterogeneous data stores like Neo4j (graph), Postgres (relation) and Solr (documents).
-  - **Current Progress**:
+    - **Objective**: Build a tightly-coupled polystore system that effciently processes analytical queries over heterogeneous data stores like Neo4j (graph), Postgres (relation) and Solr (documents).
+    - **Current Progress**: 
+        - ADIL polystore language: Designed a formal and powerful language named ADIL which supports 1) native queries against both DBMSs and in-memory data models including graph, relation and text; 2) high order functions such as Map, Reduce and Filter; 3) a rich set of advanced analytical functions; 4) strict syntax and type check at compile time.
 
 
 Awards
