@@ -26,13 +26,14 @@ Preprints & Publications
 1. Social-Aware Optimal Electric Vehicle Charger Deployment on Road Network. Qiyu Liu, Yuxiang Zeng, Lei Chen, and **Xiuwen Zheng**. SIGSPATIAL 2019.
 
 
-Selected Projects
+Current Project
 ======
 * **AWSOME Polystore System**
     - **Objective**: Build a tightly-coupled polystore system that effciently processes analytical queries over heterogeneous data stores like Neo4j (graph), Postgres (relation) and Solr (documents).
     - **Current Progress**: 
-        - ADIL polystore language: Designed a formal and powerful language named ADIL which supports 1) native queries against both DBMSs and in-memory data models including graph, relation and text; 2) high order functions such as Map, Reduce and Filter; 3) a rich set of advanced analytical functions; 4) strict syntax and type check at compile time.
-
+        - **ADIL polystore language**: Designed a formal and powerful language named ADIL which supports 1) native queries against both DBMSs and in-memory data models including graph, relation and text; 2) high order functions such as Map, Reduce and Filter; 3) a rich set of advanced analytical functions; 4) strict syntax and type check at compile time.
+        - **End-to-end Execution**: The AWESOME system takes a workload script written by users, then parses and validates it, generates logical plan and physical plan, and applies query optimization techniques to get an optimal execution plan and execute the workload.
+        - **Query Optimization**: Designing a novel algorithm that hybridizes pipeline and data-parallelism to minimize the makespan of workloads.
 
 Awards
 ======
