@@ -15,7 +15,7 @@ Email: xiz675 [AT] eng.ucsd.edu
 
 Biography
 ======
-I am currently a Ph.D. student in Computer Science, supervised by Dr. Amarnath Gupta and Prof. Arun Kumar. Before that, I obtained my B.S. degree in Communication Engineering from UESTC. My research interest lies includes data-driven DBMS, polystore database, machine learning systems, and AI for DB. My lateset resume can be found [here](https://github.com/xiz675/xiz675.github.io/raw/master/files/resume_Xiuwen.pdf).
+I am currently a Ph.D. student in Computer Science, supervised by Dr. Amarnath Gupta and [Prof. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/). Before that, I obtained my B.S. degree in Communication Engineering from UESTC. My research interest lies includes data-driven DBMS, polystore database, machine learning systems, and AI for DB. My lateset resume can be found [here](https://github.com/xiz675/xiz675.github.io/raw/master/files/resume_Xiuwen.pdf).
   
 Preprints & Publications
 ======
@@ -29,11 +29,8 @@ Preprints & Publications
 Current Project
 ======
 * **AWSOME Polystore System**
-    - **Objective**: Build a tightly-coupled polystore system that effciently processes analytical queries over heterogeneous data stores like Neo4j (graph), Postgres (relation) and Solr (documents).
-    - **Current Progress**: 
-        - **ADIL polystore language**: Designed a formal and powerful language named ADIL which supports 1) native queries against both DBMSs and in-memory data models including graph, relation and text; 2) high order functions such as Map, Reduce and Filter; 3) a rich set of advanced analytical functions; 4) strict syntax and type check at compile time.
-        - **End-to-end Execution**: The AWESOME system takes a workload script written by users, then parses and validates it, generates logical plan and physical plan, and applies query optimization techniques to get an optimal execution plan and execute the workload.
-        - **Query Optimization**: Designing a novel algorithm that hybridizes pipeline and data-parallelism to minimize the makespan of workloads.
+    - Build a tightly-coupled polystore system that effciently processes analytical queries over heterogeneous data stores like Neo4j (graph), Postgres (relation) and Solr (documents).
+
 
 Awards
 ======
